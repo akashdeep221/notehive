@@ -138,6 +138,5 @@ Authentication and authorization mechanism used - JWT Token
 Rate limiting and rate throttling - 50/min for anonymous users and 100/min for authenticated users (can be changed).  
 ## 🚀 About Me
 I'm a backend developer currently pursuing MS in Computer Science from Woolf Higher Education Institution.  
-My LinkedIn profile - https://www.linkedin.com/in/akashdeep-vasistha-56999a127/  
-My email - akashdeep2357asgardia@gmail.com  
+My LinkedIn profile - https://www.linkedin.com/in/akashdeep-vasistha-56999a127/
 Let's connect!
