@@ -66,10 +66,6 @@ Retrieves notes which has the keyword(s) in title or content
 
 
 
-
-
-
-
 ## Choice of framework/db
 
 Framework - Django  
@@ -123,6 +119,7 @@ Start the server
 ```
 
 **The above commands are for Windows OS. For Mac/Linux, please refer to the respective commands for doing the same tasks above.
+
 ## Running Tests
 
 To run tests, run the following command in the terminal for the same directory as for running the application
@@ -131,12 +128,12 @@ To run tests, run the following command in the terminal for the same directory a
   python manage.py test notevault
 ```
 
-
 ## Appendix
 
 Authentication and authorization mechanism used - JWT Token  
 Rate limiting and rate throttling - 50/min for anonymous users and 100/min for authenticated users (can be changed).  
+
 ## 🚀 About Me
-I'm a backend developer currently pursuing MS in Computer Science from Woolf Higher Education Institution.  
+
 My LinkedIn profile - https://www.linkedin.com/in/akashdeep-vasistha-56999a127/
 Let's connect!
